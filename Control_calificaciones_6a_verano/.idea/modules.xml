@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Control_calificaciones_6a_verano.iml" filepath="$PROJECT_DIR$/Control_calificaciones_6a_verano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/achartengine-0.7.0/achartengine-0.7.0.iml" filepath="$PROJECT_DIR$/achartengine-0.7.0/achartengine-0.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
